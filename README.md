@@ -1,2 +1,2 @@
 # python-portfolio
-Python portfolio projects: CLI apps, OOP, testing, automation &amp; data analysis.
+Python portfolio projects: CLI apps, OOP, testing, automation & data analysis.
