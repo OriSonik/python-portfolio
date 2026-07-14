@@ -1,0 +1,40 @@
+Artist - Title - Album - Year - Time - Genre
+Adele - Hello - 25 - 2015 - 04:56 - Pop
+ATB - My Everything - Future Memories - 2009 - 05:26 - Chillout Trance
+Blackmill - Miracle - Miracle - 2011 - 05:56 - Chillout Trance
+Carbon Based Lifeforms - Interlooper - Interlooper - 2010 - 06:29 - Ambient
+Dmitry Glushkov - Alive - Alive - 2023 - 04:21 - Chillout Trance
+Enigma - The Same Parents - Seven Lives Many Faces - 2008 - 05:19 - Omnicultural
+Fragma - Toca's Miracle - Toca - 2001 - 03:49 - Trance
+Gareth Emery - A Long Way Home - Drive - 2014 - 06:59 - Electronic Dance
+Helene Segara - Sempre Sempre - Au Nom D'Une Femme - 2000 - 04:09 - Pop
+Indila - Tourner Dans La Vide - Mini World - 2014 - 04:02 - Pop
+Joan Osborne - One Of Us - Relish - 1995 - 05:21 - Rock
+Kylie Minogue - Fragile - Fever - 2001 - 03:44 - Pop
+Loona - Pajaro Sin Cielo - Entre Dos Aguas - 2000 - 05:42 - Ambient
+Moby - Extreme Ways - 18 - 2002 - 03:57 - Alternative Rock
+Natasha Hagen - Que Sera - Que Sera - 2000 - 03:19 - Pop
+Odesza - A Moment Apart - A Moment Apart - 2017 - 03:54 - Chillwave
+Pharao - It's Your Way - Pharao - 1994 - 03:53 - Dance
+Reflekt - Need To Feel Loved - Need To Feel Loved - 2005 - 03:22 - Electronic
+Sandra - Johnny Wanna Live - Paintings In Yellow - 1990 - 03:45 - Pop
+Tiesto - Show Me The Way - Show Me The Way - 2011 - 06:08 - Electronic
+Uniting Nations - Out Of Touch - One World - 2005 - 02:49 - Dance
+Vangelis - Ask The Mountains - Voices - 1995 - 07:55 - New Age
+Within Temptation - Memories - The Silent Force - 2004 - 03:49 - Gothic
+Zara Larsson - Never Forget You - So Good - 2015 - 03:33 - Pop
+Nightwish - Nemo - Once - 2004 - 04:36 - Symphonic Metal
+Evanescence - Bring Me To Life - Fallen - 2003 - 03:56 - Alternative Metal
+Linkin Park - Numb - Meteora - 2003 - 03:07 - Nu Metal
+Massive Attack - Teardrop - Mezzanine - 1998 - 05:31 - Trip Hop
+Portishead - Roads - Dummy - 1994 - 05:05 - Trip Hop
+Daft Punk - Digital Love - Discovery - 2001 - 04:58 - Electronic
+The Prodigy - Breathe - The Fat Of The Land - 1997 - 05:35 - Electronic
+Vangelis - Conquest Of Paradise - 1492 Conquest Of Paradise - 1992 - 04:47 - Soundtrack
+Queen - The Show Must Go On - Innuendo - 1991 - 04:31 - Rock
+Toto - Africa - Toto IV - 1982 - 04:55 - Rock
+Metallica - Nothing Else Matters - Metallica - 1991 - 06:28 - Metal
+Nirvana - Come As You Are - Nevermind - 1991 - 03:39 - Grunge
+Madonna - Frozen - Ray Of Light - 1998 - 06:12 - Pop
+Michael Jackson - Billie Jean - Thriller - 1982 - 04:54 - Pop
+A-ha - Take On Me - Hunting High And Low - 1985 - 03:48 - Synth Pop
