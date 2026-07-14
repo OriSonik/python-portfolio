@@ -1,7 +1,9 @@
 from dataclasses import dataclass
+from pathlib import Path
 
 
-DATA_FILE = "songs_data.txt"
+PROJECT_DIR = Path(__file__).resolve().parent
+DATA_FILE = PROJECT_DIR / "songs_data.txt"
 SEPARATOR = " - "
 
 
